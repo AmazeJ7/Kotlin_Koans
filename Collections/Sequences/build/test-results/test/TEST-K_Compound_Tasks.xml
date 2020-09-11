@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="K_Compound_Tasks" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-19T03:54:52" hostname="DESKTOP-OFMMDFT" time="0.051">
+  <properties/>
+  <testcase name="testNumberOfTimesEachProductWasOrdered" classname="K_Compound_Tasks" time="0.046"/>
+  <testcase name="testMostExpensiveDeliveredProduct" classname="K_Compound_Tasks" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
