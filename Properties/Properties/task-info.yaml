@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 95
-    length: 3
+    length: 1
     placeholder_text: set
     initial_state:
       length: 3
@@ -16,7 +16,7 @@ files:
                   field = v
                   counter++
               }
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     class PropertyExample() {
